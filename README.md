@@ -62,3 +62,6 @@ class Try(torch.nn.Module):
 
 # Feedback and Contributions
 TULER welcomes feedback, bug reports, and contributions to enhance the TULERNN module further. If you encounter any issues or have ideas for improvements, please feel free to open an issue or create a pull request on this GitHub repository. Make sure to cite this work, and share your results in a pull request, As it will be documented in a paper.
+
+[![DOI](https://zenodo.org/badge/669341284.svg)](https://zenodo.org/badge/latestdoi/669341284)
+
